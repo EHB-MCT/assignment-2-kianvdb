@@ -1,0 +1,1 @@
+Document explaining the data schema and storage strategy

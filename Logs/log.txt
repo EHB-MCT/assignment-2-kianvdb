@@ -1,0 +1,1 @@
+Log file capturing player data and debug information
